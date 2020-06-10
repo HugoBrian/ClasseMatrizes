@@ -1,9 +1,10 @@
 # ClasseMatrizes
 
- Desenvolvimento de um classe para tratamento de matrizes com sobrecarga de operadores em C++. Projeto proposto na diciplina de Paradigmas de Programação da Universidade Federal do Rio Grande do Norte(UFRN).
+ *Desenvolvimento de um classe para tratamento de matrizes com sobrecarga de operadores em C++. Projeto proposto na diciplina de Paradigmas de Programação da Universidade Federal do Rio Grande do Norte(UFRN).
  
-   A operação de soma possui característica diferente da formalidade matemática como é descrito abaixo.
-   a partir de duas matrizes de floats passadas como parâmetro, aloca e retorna uma matriz
+*A operação de soma possui característica diferente da formalidade matemática como é descrito abaixo.
+   
+   *a partir de duas matrizes de floats passadas como parâmetro, aloca e retorna uma matriz
    igual à soma das matrizes originais.
    O número de linhas e colunas da matriz soma será o maior número de linhas e colunas nas duas matrizes
    originais, respectivamente. Por exemplo, se uma das matrizes originais tem dimensão 3x4 e a outra, 4x2,
