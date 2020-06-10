@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590548881 source:c:\users\usuário\desktop\aulas\teste cpp\programação #corona\matrizes_com_classe\main.cpp
+	<iostream>
+	"classe_matriz.h"
+
+1590548963 c:\users\usuário\desktop\aulas\teste cpp\programação #corona\matrizes_com_classe\classe_matriz.h
+	<iostream>
+
+1590548655 source:c:\users\usuário\desktop\aulas\teste cpp\programação #corona\matrizes_com_classe\classe_matriz.cpp
+	<iostream>
+	"classe_matriz.h"
+
